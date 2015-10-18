@@ -1,0 +1,8 @@
+{
+  "name": "ASP.NET",
+  "private": true,
+  "dependencies": {
+    "react": "^0.14.0",
+    "flux": "^2.1.1"
+  }
+}

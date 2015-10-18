@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "ASP.NET",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^1.6.2",
+    "tsd": "^0.6.5",
+    "bower": "^1.6.3",
+    "webpack": "^1.12.2"
+  }
+}
